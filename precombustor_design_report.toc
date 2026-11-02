@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}Introduction and Purpose}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}System Architecture — Complete Flow Path}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Physical Layout}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Why the Settling Chamber is Subsonic — Physics Justification}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Why the Nozzle Does Not Destroy the Heating — Mathematical Proof}{3}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Governing Equations — Derivation and Justification}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Isentropic Relations}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Choked Mass Flow Rate}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Blow-Down ODE — Why Mass Flow is Not Constant}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Energy Balance — Master Equation}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Equivalence Ratio $\phi $}{8}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Oxidiser Preservation Constraint}{8}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Total Pressure Drop Across the Combustor}{8}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Residence Time $\tau $}{9}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Sample Calculation — Complete Worked Example}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Step 1 — Hot-Flow Mass Flow Rate}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Step 2 — Required Thermal Power $\dot {Q}$}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Step 3 — Fuel Mass Flow Rate}{10}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Step 4 — Equivalence Ratio}{11}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Step 5 — Oxygen Fraction at Exit}{11}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Step 6 — Pressure Drop Estimate}{11}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Step 7 — Residence Time}{12}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Design Point Summary}{12}{section.4.8}%
+\contentsline {chapter}{\numberline {5}Data Collection — Experimental Protocol}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Parameters to Measure Before the Run}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Real-Time Sensors During Each Run}{14}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Run Timeline}{15}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Required Experimental Graphs}{16}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Pre-Run Verification Checklist}{19}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Nomenclature and Symbol Glossary}{20}{chapter.8}%
+\contentsline {chapter}{References}{21}{chapter*.2}%
